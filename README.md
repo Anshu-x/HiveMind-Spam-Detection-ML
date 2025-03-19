@@ -35,7 +35,7 @@ An advanced spam detection model using **Naive Bayes** and **TF-IDF vectorizatio
 ## 🛠️ **Setup**  
 ### 1️⃣ **Clone the repository**  
 
-git clone https://github.com/Anshu-x/HiveMind-Spam-Detection-ML.git  
+git https://github.com/Anshu-x/HiveMind-Spam-Detection-ML.git  
 cd HiveMind-Spam-Detection-ML  
 ### 2️⃣ Create a virtual environment
 
